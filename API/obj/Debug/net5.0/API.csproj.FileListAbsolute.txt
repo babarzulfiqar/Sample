@@ -1,0 +1,197 @@
+F:\Current Work Base\ClinicManagement\Phixhut\Phixhut.API\bin\Debug\net5.0\appsettings.Development.json
+F:\Current Work Base\ClinicManagement\Phixhut\Phixhut.API\bin\Debug\net5.0\appsettings.json
+F:\Current Work Base\ClinicManagement\Phixhut\Phixhut.API\bin\Debug\net5.0\API.exe
+F:\Current Work Base\ClinicManagement\Phixhut\Phixhut.API\bin\Debug\net5.0\API.deps.json
+F:\Current Work Base\ClinicManagement\Phixhut\Phixhut.API\bin\Debug\net5.0\API.runtimeconfig.json
+F:\Current Work Base\ClinicManagement\Phixhut\Phixhut.API\bin\Debug\net5.0\API.runtimeconfig.dev.json
+F:\Current Work Base\ClinicManagement\Phixhut\Phixhut.API\bin\Debug\net5.0\API.dll
+F:\Current Work Base\ClinicManagement\Phixhut\Phixhut.API\bin\Debug\net5.0\ref\API.dll
+F:\Current Work Base\ClinicManagement\Phixhut\Phixhut.API\bin\Debug\net5.0\API.pdb
+F:\Current Work Base\ClinicManagement\Phixhut\Phixhut.API\bin\Debug\net5.0\AutoMapper.dll
+F:\Current Work Base\ClinicManagement\Phixhut\Phixhut.API\bin\Debug\net5.0\Humanizer.dll
+F:\Current Work Base\ClinicManagement\Phixhut\Phixhut.API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+F:\Current Work Base\ClinicManagement\Phixhut\Phixhut.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\Current Work Base\ClinicManagement\Phixhut\Phixhut.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Current Work Base\ClinicManagement\Phixhut\Phixhut.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Current Work Base\ClinicManagement\Phixhut\Phixhut.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Current Work Base\ClinicManagement\Phixhut\Phixhut.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Current Work Base\ClinicManagement\Phixhut\Phixhut.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\Current Work Base\ClinicManagement\Phixhut\Phixhut.API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+F:\Current Work Base\ClinicManagement\Phixhut\Phixhut.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Current Work Base\ClinicManagement\Phixhut\Phixhut.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\Current Work Base\ClinicManagement\Phixhut\Phixhut.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\Current Work Base\ClinicManagement\Phixhut\Phixhut.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Current Work Base\ClinicManagement\Phixhut\Phixhut.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\Current Work Base\ClinicManagement\Phixhut\Phixhut.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+F:\Current Work Base\ClinicManagement\Phixhut\Phixhut.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\Current Work Base\ClinicManagement\Phixhut\Phixhut.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Current Work Base\ClinicManagement\Phixhut\Phixhut.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Current Work Base\ClinicManagement\Phixhut\Phixhut.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Current Work Base\ClinicManagement\Phixhut\Phixhut.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\Current Work Base\ClinicManagement\Phixhut\Phixhut.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+F:\Current Work Base\ClinicManagement\Phixhut\Phixhut.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Current Work Base\ClinicManagement\Phixhut\Phixhut.API\bin\Debug\net5.0\System.Runtime.Caching.dll
+F:\Current Work Base\ClinicManagement\Phixhut\Phixhut.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\Current Work Base\ClinicManagement\Phixhut\Phixhut.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Current Work Base\ClinicManagement\Phixhut\Phixhut.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Current Work Base\ClinicManagement\Phixhut\Phixhut.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Current Work Base\ClinicManagement\Phixhut\Phixhut.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Current Work Base\ClinicManagement\Phixhut\Phixhut.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Current Work Base\ClinicManagement\Phixhut\Phixhut.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Current Work Base\ClinicManagement\Phixhut\Phixhut.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Current Work Base\ClinicManagement\Phixhut\Phixhut.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Current Work Base\ClinicManagement\Phixhut\Phixhut.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Current Work Base\ClinicManagement\Phixhut\Phixhut.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Current Work Base\ClinicManagement\Phixhut\Phixhut.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Current Work Base\ClinicManagement\Phixhut\Phixhut.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Current Work Base\ClinicManagement\Phixhut\Phixhut.API\bin\Debug\net5.0\Domain.dll
+F:\Current Work Base\ClinicManagement\Phixhut\Phixhut.API\bin\Debug\net5.0\Infrastructure.dll
+F:\Current Work Base\ClinicManagement\Phixhut\Phixhut.API\bin\Debug\net5.0\Domain.pdb
+F:\Current Work Base\ClinicManagement\Phixhut\Phixhut.API\bin\Debug\net5.0\Infrastructure.pdb
+F:\Current Work Base\ClinicManagement\Phixhut\Phixhut.API\obj\Debug\net5.0\API.csprojAssemblyReference.cache
+F:\Current Work Base\ClinicManagement\Phixhut\Phixhut.API\obj\Debug\net5.0\API.GeneratedMSBuildEditorConfig.editorconfig
+F:\Current Work Base\ClinicManagement\Phixhut\Phixhut.API\obj\Debug\net5.0\API.AssemblyInfoInputs.cache
+F:\Current Work Base\ClinicManagement\Phixhut\Phixhut.API\obj\Debug\net5.0\API.AssemblyInfo.cs
+F:\Current Work Base\ClinicManagement\Phixhut\Phixhut.API\obj\Debug\net5.0\API.csproj.CoreCompileInputs.cache
+F:\Current Work Base\ClinicManagement\Phixhut\Phixhut.API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cs
+F:\Current Work Base\ClinicManagement\Phixhut\Phixhut.API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cache
+F:\Current Work Base\ClinicManagement\Phixhut\Phixhut.API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.Manifest.cache
+F:\Current Work Base\ClinicManagement\Phixhut\Phixhut.API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.xml
+F:\Current Work Base\ClinicManagement\Phixhut\Phixhut.API\obj\Debug\net5.0\scopedcss\bundle\API.styles.css
+F:\Current Work Base\ClinicManagement\Phixhut\Phixhut.API\obj\Debug\net5.0\API.RazorTargetAssemblyInfo.cache
+F:\Current Work Base\ClinicManagement\Phixhut\Phixhut.API\obj\Debug\net5.0\API.csproj.CopyComplete
+F:\Current Work Base\ClinicManagement\Phixhut\Phixhut.API\obj\Debug\net5.0\API.dll
+F:\Current Work Base\ClinicManagement\Phixhut\Phixhut.API\obj\Debug\net5.0\ref\API.dll
+F:\Current Work Base\ClinicManagement\Phixhut\Phixhut.API\obj\Debug\net5.0\API.pdb
+F:\Current Work Base\ClinicManagement\Phixhut\Phixhut.API\obj\Debug\net5.0\API.genruntimeconfig.cache
+F:\Current Work Base\ClinicManagement\API\API\bin\Debug\net5.0\appsettings.Development.json
+F:\Current Work Base\ClinicManagement\API\API\bin\Debug\net5.0\appsettings.json
+F:\Current Work Base\ClinicManagement\API\API\bin\Debug\net5.0\API.exe
+F:\Current Work Base\ClinicManagement\API\API\bin\Debug\net5.0\API.deps.json
+F:\Current Work Base\ClinicManagement\API\API\bin\Debug\net5.0\API.runtimeconfig.json
+F:\Current Work Base\ClinicManagement\API\API\bin\Debug\net5.0\API.runtimeconfig.dev.json
+F:\Current Work Base\ClinicManagement\API\API\bin\Debug\net5.0\API.dll
+F:\Current Work Base\ClinicManagement\API\API\bin\Debug\net5.0\ref\API.dll
+F:\Current Work Base\ClinicManagement\API\API\bin\Debug\net5.0\API.pdb
+F:\Current Work Base\ClinicManagement\API\API\bin\Debug\net5.0\AutoMapper.dll
+F:\Current Work Base\ClinicManagement\API\API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+F:\Current Work Base\ClinicManagement\API\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\Current Work Base\ClinicManagement\API\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Current Work Base\ClinicManagement\API\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Current Work Base\ClinicManagement\API\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Current Work Base\ClinicManagement\API\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\Current Work Base\ClinicManagement\API\API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+F:\Current Work Base\ClinicManagement\API\API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Current Work Base\ClinicManagement\API\API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\Current Work Base\ClinicManagement\API\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\Current Work Base\ClinicManagement\API\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Current Work Base\ClinicManagement\API\API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\Current Work Base\ClinicManagement\API\API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+F:\Current Work Base\ClinicManagement\API\API\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\Current Work Base\ClinicManagement\API\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Current Work Base\ClinicManagement\API\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Current Work Base\ClinicManagement\API\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Current Work Base\ClinicManagement\API\API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\Current Work Base\ClinicManagement\API\API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+F:\Current Work Base\ClinicManagement\API\API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Current Work Base\ClinicManagement\API\API\bin\Debug\net5.0\System.Runtime.Caching.dll
+F:\Current Work Base\ClinicManagement\API\API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\Current Work Base\ClinicManagement\API\API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Current Work Base\ClinicManagement\API\API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Current Work Base\ClinicManagement\API\API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Current Work Base\ClinicManagement\API\API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Current Work Base\ClinicManagement\API\API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Current Work Base\ClinicManagement\API\API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Current Work Base\ClinicManagement\API\API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Current Work Base\ClinicManagement\API\API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Current Work Base\ClinicManagement\API\API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Current Work Base\ClinicManagement\API\API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Current Work Base\ClinicManagement\API\API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Current Work Base\ClinicManagement\API\API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Current Work Base\ClinicManagement\API\API\bin\Debug\net5.0\Domain.dll
+F:\Current Work Base\ClinicManagement\API\API\bin\Debug\net5.0\Infrastructure.dll
+F:\Current Work Base\ClinicManagement\API\API\bin\Debug\net5.0\Domain.pdb
+F:\Current Work Base\ClinicManagement\API\API\bin\Debug\net5.0\Infrastructure.pdb
+F:\Current Work Base\ClinicManagement\API\API\obj\Debug\net5.0\API.csprojAssemblyReference.cache
+F:\Current Work Base\ClinicManagement\API\API\obj\Debug\net5.0\API.GeneratedMSBuildEditorConfig.editorconfig
+F:\Current Work Base\ClinicManagement\API\API\obj\Debug\net5.0\API.AssemblyInfoInputs.cache
+F:\Current Work Base\ClinicManagement\API\API\obj\Debug\net5.0\API.AssemblyInfo.cs
+F:\Current Work Base\ClinicManagement\API\API\obj\Debug\net5.0\API.csproj.CoreCompileInputs.cache
+F:\Current Work Base\ClinicManagement\API\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cs
+F:\Current Work Base\ClinicManagement\API\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cache
+F:\Current Work Base\ClinicManagement\API\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.Manifest.cache
+F:\Current Work Base\ClinicManagement\API\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.xml
+F:\Current Work Base\ClinicManagement\API\API\obj\Debug\net5.0\scopedcss\bundle\API.styles.css
+F:\Current Work Base\ClinicManagement\API\API\obj\Debug\net5.0\API.RazorTargetAssemblyInfo.cache
+F:\Current Work Base\ClinicManagement\API\API\obj\Debug\net5.0\API.csproj.CopyComplete
+F:\Current Work Base\ClinicManagement\API\API\obj\Debug\net5.0\API.dll
+F:\Current Work Base\ClinicManagement\API\API\obj\Debug\net5.0\ref\API.dll
+F:\Current Work Base\ClinicManagement\API\API\obj\Debug\net5.0\API.pdb
+F:\Current Work Base\ClinicManagement\API\API\obj\Debug\net5.0\API.genruntimeconfig.cache
+F:\Current Work Base\CRM - CODEXTERS\API\bin\Debug\net5.0\appsettings.Development.json
+F:\Current Work Base\CRM - CODEXTERS\API\bin\Debug\net5.0\appsettings.json
+F:\Current Work Base\CRM - CODEXTERS\API\bin\Debug\net5.0\API.exe
+F:\Current Work Base\CRM - CODEXTERS\API\bin\Debug\net5.0\API.deps.json
+F:\Current Work Base\CRM - CODEXTERS\API\bin\Debug\net5.0\API.runtimeconfig.json
+F:\Current Work Base\CRM - CODEXTERS\API\bin\Debug\net5.0\API.runtimeconfig.dev.json
+F:\Current Work Base\CRM - CODEXTERS\API\bin\Debug\net5.0\API.dll
+F:\Current Work Base\CRM - CODEXTERS\API\bin\Debug\net5.0\ref\API.dll
+F:\Current Work Base\CRM - CODEXTERS\API\bin\Debug\net5.0\API.pdb
+F:\Current Work Base\CRM - CODEXTERS\API\bin\Debug\net5.0\AutoMapper.dll
+F:\Current Work Base\CRM - CODEXTERS\API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+F:\Current Work Base\CRM - CODEXTERS\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\Current Work Base\CRM - CODEXTERS\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Current Work Base\CRM - CODEXTERS\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Current Work Base\CRM - CODEXTERS\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Current Work Base\CRM - CODEXTERS\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\Current Work Base\CRM - CODEXTERS\API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+F:\Current Work Base\CRM - CODEXTERS\API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Current Work Base\CRM - CODEXTERS\API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\Current Work Base\CRM - CODEXTERS\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\Current Work Base\CRM - CODEXTERS\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Current Work Base\CRM - CODEXTERS\API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\Current Work Base\CRM - CODEXTERS\API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+F:\Current Work Base\CRM - CODEXTERS\API\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\Current Work Base\CRM - CODEXTERS\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Current Work Base\CRM - CODEXTERS\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Current Work Base\CRM - CODEXTERS\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Current Work Base\CRM - CODEXTERS\API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\Current Work Base\CRM - CODEXTERS\API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+F:\Current Work Base\CRM - CODEXTERS\API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Current Work Base\CRM - CODEXTERS\API\bin\Debug\net5.0\System.Runtime.Caching.dll
+F:\Current Work Base\CRM - CODEXTERS\API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\Current Work Base\CRM - CODEXTERS\API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Current Work Base\CRM - CODEXTERS\API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Current Work Base\CRM - CODEXTERS\API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Current Work Base\CRM - CODEXTERS\API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Current Work Base\CRM - CODEXTERS\API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Current Work Base\CRM - CODEXTERS\API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Current Work Base\CRM - CODEXTERS\API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Current Work Base\CRM - CODEXTERS\API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Current Work Base\CRM - CODEXTERS\API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Current Work Base\CRM - CODEXTERS\API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Current Work Base\CRM - CODEXTERS\API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Current Work Base\CRM - CODEXTERS\API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Current Work Base\CRM - CODEXTERS\API\bin\Debug\net5.0\Infrastructure.dll
+F:\Current Work Base\CRM - CODEXTERS\API\bin\Debug\net5.0\Infrastructure.pdb
+F:\Current Work Base\CRM - CODEXTERS\API\obj\Debug\net5.0\API.csprojAssemblyReference.cache
+F:\Current Work Base\CRM - CODEXTERS\API\obj\Debug\net5.0\API.GeneratedMSBuildEditorConfig.editorconfig
+F:\Current Work Base\CRM - CODEXTERS\API\obj\Debug\net5.0\API.AssemblyInfoInputs.cache
+F:\Current Work Base\CRM - CODEXTERS\API\obj\Debug\net5.0\API.AssemblyInfo.cs
+F:\Current Work Base\CRM - CODEXTERS\API\obj\Debug\net5.0\API.csproj.CoreCompileInputs.cache
+F:\Current Work Base\CRM - CODEXTERS\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cs
+F:\Current Work Base\CRM - CODEXTERS\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cache
+F:\Current Work Base\CRM - CODEXTERS\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.Manifest.cache
+F:\Current Work Base\CRM - CODEXTERS\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.xml
+F:\Current Work Base\CRM - CODEXTERS\API\obj\Debug\net5.0\scopedcss\bundle\API.styles.css
+F:\Current Work Base\CRM - CODEXTERS\API\obj\Debug\net5.0\API.RazorTargetAssemblyInfo.cache
+F:\Current Work Base\CRM - CODEXTERS\API\obj\Debug\net5.0\API.csproj.CopyComplete
+F:\Current Work Base\CRM - CODEXTERS\API\obj\Debug\net5.0\API.dll
+F:\Current Work Base\CRM - CODEXTERS\API\obj\Debug\net5.0\ref\API.dll
+F:\Current Work Base\CRM - CODEXTERS\API\obj\Debug\net5.0\API.pdb
+F:\Current Work Base\CRM - CODEXTERS\API\obj\Debug\net5.0\API.genruntimeconfig.cache
+F:\Current Work Base\CRM - CODEXTERS\API\bin\Debug\net5.0\Core.dll
+F:\Current Work Base\CRM - CODEXTERS\API\bin\Debug\net5.0\Core.pdb
+F:\Current Work Base\CRM - CODEXTERS\API\bin\Debug\net5.0\Z.EntityFramework.Extensions.EFCore.dll
+F:\Current Work Base\CRM - CODEXTERS\API\bin\Debug\net5.0\Z.EntityFramework.Plus.EFCore.dll
+F:\Current Work Base\CRM - CODEXTERS\API\bin\Debug\net5.0\Z.Expressions.Eval.dll

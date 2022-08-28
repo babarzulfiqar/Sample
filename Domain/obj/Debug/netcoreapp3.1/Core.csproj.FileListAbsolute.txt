@@ -1,0 +1,9 @@
+F:\Current Work Base\CRM - CODEXTERS\Domain\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+F:\Current Work Base\CRM - CODEXTERS\Domain\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+F:\Current Work Base\CRM - CODEXTERS\Domain\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
+F:\Current Work Base\CRM - CODEXTERS\Domain\bin\Debug\netcoreapp3.1\Core.deps.json
+F:\Current Work Base\CRM - CODEXTERS\Domain\bin\Debug\netcoreapp3.1\Core.dll
+F:\Current Work Base\CRM - CODEXTERS\Domain\bin\Debug\netcoreapp3.1\Core.pdb
+F:\Current Work Base\CRM - CODEXTERS\Domain\obj\Debug\netcoreapp3.1\Core.dll
+F:\Current Work Base\CRM - CODEXTERS\Domain\obj\Debug\netcoreapp3.1\Core.pdb
+F:\Current Work Base\CRM - CODEXTERS\Domain\obj\Debug\netcoreapp3.1\Core.csprojAssemblyReference.cache

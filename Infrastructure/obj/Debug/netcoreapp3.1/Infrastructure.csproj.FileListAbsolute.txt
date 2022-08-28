@@ -1,0 +1,44 @@
+F:\Current Work Base\ClinicManagement\Phixhut\Phixhut.Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.deps.json
+F:\Current Work Base\ClinicManagement\Phixhut\Phixhut.Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.runtimeconfig.json
+F:\Current Work Base\ClinicManagement\Phixhut\Phixhut.Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.runtimeconfig.dev.json
+F:\Current Work Base\ClinicManagement\Phixhut\Phixhut.Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.dll
+F:\Current Work Base\ClinicManagement\Phixhut\Phixhut.Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+F:\Current Work Base\ClinicManagement\Phixhut\Phixhut.Infrastructure\bin\Debug\netcoreapp3.1\Domain.dll
+F:\Current Work Base\ClinicManagement\Phixhut\Phixhut.Infrastructure\bin\Debug\netcoreapp3.1\Domain.pdb
+F:\Current Work Base\ClinicManagement\Phixhut\Phixhut.Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csprojAssemblyReference.cache
+F:\Current Work Base\ClinicManagement\Phixhut\Phixhut.Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfoInputs.cache
+F:\Current Work Base\ClinicManagement\Phixhut\Phixhut.Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfo.cs
+F:\Current Work Base\ClinicManagement\Phixhut\Phixhut.Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CoreCompileInputs.cache
+F:\Current Work Base\ClinicManagement\Phixhut\Phixhut.Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CopyComplete
+F:\Current Work Base\ClinicManagement\Phixhut\Phixhut.Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.dll
+F:\Current Work Base\ClinicManagement\Phixhut\Phixhut.Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.pdb
+F:\Current Work Base\ClinicManagement\Phixhut\Phixhut.Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.genruntimeconfig.cache
+F:\Current Work Base\ClinicManagement\API\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.deps.json
+F:\Current Work Base\ClinicManagement\API\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.runtimeconfig.json
+F:\Current Work Base\ClinicManagement\API\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.runtimeconfig.dev.json
+F:\Current Work Base\ClinicManagement\API\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.dll
+F:\Current Work Base\ClinicManagement\API\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+F:\Current Work Base\ClinicManagement\API\Infrastructure\bin\Debug\netcoreapp3.1\Domain.dll
+F:\Current Work Base\ClinicManagement\API\Infrastructure\bin\Debug\netcoreapp3.1\Domain.pdb
+F:\Current Work Base\ClinicManagement\API\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfoInputs.cache
+F:\Current Work Base\ClinicManagement\API\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfo.cs
+F:\Current Work Base\ClinicManagement\API\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CoreCompileInputs.cache
+F:\Current Work Base\ClinicManagement\API\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CopyComplete
+F:\Current Work Base\ClinicManagement\API\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.dll
+F:\Current Work Base\ClinicManagement\API\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.pdb
+F:\Current Work Base\ClinicManagement\API\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.genruntimeconfig.cache
+F:\Current Work Base\CRM - CODEXTERS\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.deps.json
+F:\Current Work Base\CRM - CODEXTERS\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.runtimeconfig.json
+F:\Current Work Base\CRM - CODEXTERS\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.runtimeconfig.dev.json
+F:\Current Work Base\CRM - CODEXTERS\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.dll
+F:\Current Work Base\CRM - CODEXTERS\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+F:\Current Work Base\CRM - CODEXTERS\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csprojAssemblyReference.cache
+F:\Current Work Base\CRM - CODEXTERS\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfoInputs.cache
+F:\Current Work Base\CRM - CODEXTERS\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfo.cs
+F:\Current Work Base\CRM - CODEXTERS\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CoreCompileInputs.cache
+F:\Current Work Base\CRM - CODEXTERS\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CopyComplete
+F:\Current Work Base\CRM - CODEXTERS\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.dll
+F:\Current Work Base\CRM - CODEXTERS\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.pdb
+F:\Current Work Base\CRM - CODEXTERS\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.genruntimeconfig.cache
+F:\Current Work Base\CRM - CODEXTERS\Infrastructure\bin\Debug\netcoreapp3.1\Core.dll
+F:\Current Work Base\CRM - CODEXTERS\Infrastructure\bin\Debug\netcoreapp3.1\Core.pdb

@@ -1,0 +1,9 @@
+F:\Xerobit\Phixhut-New\Phixhut\Phixhut.Domain\bin\Debug\netcoreapp3.1\Phixhut.Domain.deps.json
+F:\Xerobit\Phixhut-New\Phixhut\Phixhut.Domain\bin\Debug\netcoreapp3.1\Phixhut.Domain.dll
+F:\Xerobit\Phixhut-New\Phixhut\Phixhut.Domain\bin\Debug\netcoreapp3.1\Phixhut.Domain.pdb
+F:\Xerobit\Phixhut-New\Phixhut\Phixhut.Domain\obj\Debug\netcoreapp3.1\Phixhut.Domain.csprojAssemblyReference.cache
+F:\Xerobit\Phixhut-New\Phixhut\Phixhut.Domain\obj\Debug\netcoreapp3.1\Phixhut.Domain.AssemblyInfoInputs.cache
+F:\Xerobit\Phixhut-New\Phixhut\Phixhut.Domain\obj\Debug\netcoreapp3.1\Phixhut.Domain.AssemblyInfo.cs
+F:\Xerobit\Phixhut-New\Phixhut\Phixhut.Domain\obj\Debug\netcoreapp3.1\Phixhut.Domain.csproj.CoreCompileInputs.cache
+F:\Xerobit\Phixhut-New\Phixhut\Phixhut.Domain\obj\Debug\netcoreapp3.1\Phixhut.Domain.dll
+F:\Xerobit\Phixhut-New\Phixhut\Phixhut.Domain\obj\Debug\netcoreapp3.1\Phixhut.Domain.pdb

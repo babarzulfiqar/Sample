@@ -1,0 +1,15 @@
+F:\Xerobit\Phixhut-New\Phixhut\Phixhut.Infrastructure\bin\Debug\netcoreapp3.1\Phixhut.Infrastructure.deps.json
+F:\Xerobit\Phixhut-New\Phixhut\Phixhut.Infrastructure\bin\Debug\netcoreapp3.1\Phixhut.Infrastructure.runtimeconfig.json
+F:\Xerobit\Phixhut-New\Phixhut\Phixhut.Infrastructure\bin\Debug\netcoreapp3.1\Phixhut.Infrastructure.runtimeconfig.dev.json
+F:\Xerobit\Phixhut-New\Phixhut\Phixhut.Infrastructure\bin\Debug\netcoreapp3.1\Phixhut.Infrastructure.dll
+F:\Xerobit\Phixhut-New\Phixhut\Phixhut.Infrastructure\bin\Debug\netcoreapp3.1\Phixhut.Infrastructure.pdb
+F:\Xerobit\Phixhut-New\Phixhut\Phixhut.Infrastructure\bin\Debug\netcoreapp3.1\Phixhut.Domain.dll
+F:\Xerobit\Phixhut-New\Phixhut\Phixhut.Infrastructure\bin\Debug\netcoreapp3.1\Phixhut.Domain.pdb
+F:\Xerobit\Phixhut-New\Phixhut\Phixhut.Infrastructure\obj\Debug\netcoreapp3.1\Phixhut.Infrastructure.csprojAssemblyReference.cache
+F:\Xerobit\Phixhut-New\Phixhut\Phixhut.Infrastructure\obj\Debug\netcoreapp3.1\Phixhut.Infrastructure.AssemblyInfoInputs.cache
+F:\Xerobit\Phixhut-New\Phixhut\Phixhut.Infrastructure\obj\Debug\netcoreapp3.1\Phixhut.Infrastructure.AssemblyInfo.cs
+F:\Xerobit\Phixhut-New\Phixhut\Phixhut.Infrastructure\obj\Debug\netcoreapp3.1\Phixhut.Infrastructure.csproj.CoreCompileInputs.cache
+F:\Xerobit\Phixhut-New\Phixhut\Phixhut.Infrastructure\obj\Debug\netcoreapp3.1\Phixhut.Infrastructure.csproj.CopyComplete
+F:\Xerobit\Phixhut-New\Phixhut\Phixhut.Infrastructure\obj\Debug\netcoreapp3.1\Phixhut.Infrastructure.dll
+F:\Xerobit\Phixhut-New\Phixhut\Phixhut.Infrastructure\obj\Debug\netcoreapp3.1\Phixhut.Infrastructure.pdb
+F:\Xerobit\Phixhut-New\Phixhut\Phixhut.Infrastructure\obj\Debug\netcoreapp3.1\Phixhut.Infrastructure.genruntimeconfig.cache
